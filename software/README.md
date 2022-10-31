@@ -51,3 +51,4 @@ The `Version` relates to the `Status` column. If `Status` field is set to 'Vulne
 | Red Hat | Enterprise Linux | >= 9.0 | 3.x	| Vulnerable | https://www.redhat.com/en/blog/experience-bringing-openssl-30-rhel-and-fedora	| | 
 | Rocky Enterprise Software Foundation | Rock Linux | 9.0 (Blue Onyx) | 3.0.1 | Vulnerable | https://isc.sans.edu/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192/ |
 | Slackware | Slackware Linux | 14 | 1.0.1 | Not vuln | https://isc.sans.edu/diary/Upcoming+Critical+OpenSSL+Vulnerability+What+will+be+Affected/29192/ |
+| FreeBSD | FreeBSD | <=13 | <3 | Not vuln | (base for OPNSense and pfSense CE) https://pkg.opnsense.org/FreeBSD:12:amd64/21.7/latest/All/
